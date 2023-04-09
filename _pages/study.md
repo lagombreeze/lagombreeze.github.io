@@ -1,7 +1,7 @@
 ---
 permalink: /study/
 title: "Study"
-layout: posts
+layout: tags
 author_profile: true
 toc: true
 toc_sticky: true
