@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Study
 tags:
-  - ADP
+  - ADP필기
 ---
 
 #### 제1장 데이터 처리 프로세스
